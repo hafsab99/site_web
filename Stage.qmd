@@ -1,0 +1,12 @@
+---
+title: "Stages"
+editor: visual
+---
+
+Le master SEP propose un stage long de 4 à 6 mois pour la majeure professionnelle et de 1 à 6 mois pour la majeure recherche.
+
+### Livret des stages
+
+Le lien ci-dessous redirige vers un livret recensant les différents stages des promos précédentes du master SEP : [livret_stage](https://livret-des-stages.quarto.pub/livret-des-stage/Administration%20publique.html?fbclid=IwAR1I_iymNk25LY7Sk9HPkrT2Ok85vseb13WNsMMdyA6Y8JRKEWAWGhyogUo)
+
+

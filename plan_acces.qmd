@@ -1,0 +1,62 @@
+---
+title: "Plan d'accès"
+editor: visual
+---
+
+Les cours sont dispensés dans les deux campus : Campus Croix Rouge à la faculté d'économie et Campus Moulin de la Housse à la faculté des sciences, vous trouvez ci-dessous les adresses :
+
+### Université de Reims Champagne-Ardenne :
+
+Campus Croix-Rouge\
+Bâtiment 18\
+57 rue Pierre Taittinger\
+51100 Reims
+
+![](croix_rouge.jpg)
+
+Campus Moulin de la Housse\
+Département Maths/Info\
+16 Chemin des Rouliers\
+51100 Reims
+
+![](moulin_housse.jpg)
+
+### Venir à Reims
+
+[Par la route :]{.underline}\
+À la croisée des autoroutes :\
+A4 -- E50 (Paris --Strasbourg-Allemagne)\
+A26 -- E17 (Lille --Lyon-Méditerranée)\
+A34 -- E46 (Ardennes --Belgique)\
+6 sorties desservent la ville
+
+Vous pouvez établir votre itinéraire en suivant les liens suivants :\
+[www.mappy.com](http://www.mappy.com/ "mappy")\
+[www.viamichelin.com](http://www.viamichelin.com/ "viamichelin")
+
+[Par le train :]{.underline}\
+Reims est à 45' de Paris et 30' de Roissy Charles De Gaulle par le TGV Est Européen :\
+2 gares TGV :\
+\* Gare TGV Reims centre : 8 A/R pour Paris en 45'\
+\* Gare TGV Reims Champagne à Bezannes (à 5km du centre de Reims) : 3 A/R pour Paris en 40'\
+9 interconnexions avec le réseau national (Roissy Charles De Gaulle -- 30', Marne la Vallée -- 30', Massy -- 1h, Strasbourg --1h50, Nantes -- 3h15, Rennes -- 3h17, Bordeaux -- 4h36, Londres -- 4h10, Lille -- 1h34)\
+Pour plus de renseignements, connectez-vous sur le site de la SNCF [www.voyages-sncf.com](http://www.voyages-sncf.com/ "sncf")
+
+[Par avion :]{.underline}\
+Aéroport Roissy Charles De Gaulle : à 30' en TGV\
+Aéroport Paris-Orly : 1h30\
+Aéroport Paris-Vatry : 1h en navette (<http://www.parisvatry.com/spip.php?article54>)
+
+Liens vers les sites des aéroports :\
+[www.aeroportsdeparis.fr](http://www.aeroportsdeparis.fr/ "aéroports")\
+[www.parisvatry.com](http://www.parisvatry.com/ "vatry")
+
+### Se déplacer à Reims
+
+En tramway ou en bus sur le réseau Citura : [www.citura.fr](http://www.citura.fr/ "citura")
+
+Les Journées thématiques auront lieu à l'Université de Reims sur le Campus Croix-Rouge, 57 rue Pierre Taittinger. Descendre à l'arrêt « Campus Croix-Rouge » sur les lignes A ou B du tramway.
+
+-   [Plan du Campus Croix-Rouge](http://www.univ-reims.fr/site/evenement/journees-thematiques-de-l-adrips/infos-pratiques/gallery_files/site/1/1697/1713/37347/41418.pdf "campus croix rouge")
+
+-   [Plan tramway Reims](http://www.univ-reims.fr/site/evenement/journees-thematiques-de-l-adrips/infos-pratiques/gallery_files/site/1/1697/1713/37347/41411.pdf "tramway Reims")

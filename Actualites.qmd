@@ -1,0 +1,10 @@
+---
+title: "Actualités"
+listing:
+  type: grid
+  contents:
+    - "Article_1.qmd"
+    - "Article_2.qmd"
+    - "Article_4.qmd"
+    - "Article_5.qmd"
+---

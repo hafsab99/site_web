@@ -1,0 +1,19 @@
+---
+title: "Dégradation de la qualité et l'accessibilité des données en 2022"
+format: html
+editor: visual
+---
+
+D'après une étude publiée par l'éditeur Talend, la quasi-totalité des entreprises a éprouvé des difficultés à utiliser les données en 2022. En cause, une dégradation de la santé des données au cours de l'année passée, en particulier sur les aspects d'actualisation.
+
+![Le baromètre 2022 de Talend/Qualtrics sur la santé des données met en exergue l\'importance de la culture data pour les entreprises.](https://images.itnewsinfo.com/lmi/articles/grande/000000089992.jpg "Le baromètre 2022 de Talend/Qualtrics sur la santé des données met en exergue l’importance de la culture data pour les entreprises."){alt="Le baromètre 2022 de Talend/Qualtrics sur la santé des données met en exergue l’importance de la culture data pour les entreprises."}
+
+Pratiquement toutes les entreprises reconnaissent l'importance des données pour le succès de leurs stratégies, qu'il s'agisse d'augmenter le chiffre d'affaires, d'optimiser les coûts ou de réduire les risques. Pourtant, selon le baromètre 2022 sur la santé des données réalisé par [l'éditeur Talend](https://www.lemondeinformatique.fr/actualites/lire-talend-bientot-dans-l-escarcelle-de-qlik-89148.html) et la société Qualtrics, 97% des 892 décideurs et professionnels de la donnée interrogés témoignent de difficultés à utiliser les données dont ils disposent, leurs deux premiers défis étant d'assurer la qualité des données (49%) et d'y accéder rapidement (41%).\
+\
+À l'heure où l'agilité et la rapidité d'accès aux données peuvent faire la différence dans un contexte économique d'incertitude généralisée, près d'un sondé sur deux (46%) estime manquer de vitesse et de flexibilité dans ce domaine. Plus d'une entreprise sur quatre (41%) peine également à accéder rapidement aux données dont elle a besoin. L'enquête révèle par ailleurs une dégradation globale des cinq indicateurs de santé des données évalués entre 2021 et 2022 : l'actualisation chute de 18 points, la fiabilité, l'homogénéité et l'exhaustivité de 11 points et l'accessibilité de 9 points. Si malgré cela, 82% des répondants ont confiance dans leurs données, un écart notable sépare les professionnels IT (85% ont confiance) des métiers, qui ne sont que 75% à avoir confiance en celles-ci.
+
+## Une culture data encore insuffisante
+
+Parmi les facteurs expliquant la dégradation de la santé des données, les entreprises pointent notamment le travail à distance. Pour 57% des répondants, celui-ci accentue les difficultés d'accès à la donnée. Des enjeux d'ordre culturel transparaissent également, avec une organisation sur trois qui émet des réserves sur la compréhension des données par ses employés, faute en particulier de langage commun. Pour y remédier, 65% des entreprises interrogées ont lancé des programmes de data literacy (acculturation à la donnée).
+
+Article rédigé par [**Aurélie Chandeze**](https://www.lemondeinformatique.fr/actualites/auteur-aurelie-chandeze-573.html)**, r**édactrice en chef adjointe de CIO, sur le "LE MONDE INFORMATIQUE".

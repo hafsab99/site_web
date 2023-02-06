@@ -1,0 +1,102 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  search : true
+  title: "URCA - Master SEP"
+  reader-mode: true
+  favicon: logo_blanc.jpg
+
+  page-footer: 
+      center: "Made by Nouhaila & Hafsa, URCA Master SEP"
+      right:
+        - icon: linkedin
+          href: https://www.linkedin.com/in/master-sep-a004ba256/
+        - icon: facebook
+          href: https://www.facebook.com/Master-SEP-Reims-108350474430182
+        - icon: github
+          href: https://github.com/MasterSEP  
+        - icon: instagram
+          href: https://www.instagram.com/
+
+  navbar:
+    logo: logo urca.jpg
+    background: secondary
+    search: true
+    left:
+      - text: "Présentation"
+        file: index.qmd
+      - text: "Formation"
+        file: Formation.qmd
+      - text: "Contacts"
+        file: contacts.qmd
+      - text: "Livret d'acceuil"
+        file: Livret_acceuil.qmd
+      - text: "On parle de nous"
+        file: parle_de_nous.qmd
+      - text: "Ressources"
+        file: ressources.qmd
+      - text: "Actualités"
+        file: Actualites.qmd
+      
+      
+  sidebar:
+    style: "docked"
+    search: true
+    contents: 
+      - section: "Présentation"
+        contents: 
+          - index.qmd
+          - Modalités.qmd
+          - Débouchés.qmd
+      - section: "Formation"
+        contents:
+          - Organisation.qmd
+          - Enseignements.qmd
+          - Enseignants.qmd
+          - Stage.qmd
+      - section: "Contacts"
+        contents:
+          - contacts.qmd
+      - section: "Livret d'acceuil"
+        contents:
+          - Livret_acceuil.qmd
+      - section: "On parle de nous"
+        contents:
+          - parle_de_nous.qmd
+      - section: "Ressources"
+        contents:
+          - ressources.qmd
+      - section: "Actualités"
+        contents:
+          - Actualites.qmd
+
+      
+    tools: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/master-sep-a004ba256/
+      - icon: facebook
+        href: https://www.facebook.com/Master-SEP-Reims-108350474430182
+      - icon: github
+        href: https://github.com/MasterSEP
+      - icon: instagram 
+        href: https://www.instagram.com/
+      
+         
+
+format:
+  html:
+    toc: true
+    page-layout: full
+    theme: Sandstone
+    #css: styles.css
+    
+
+
+
+
+    
+
+editor: visual
+

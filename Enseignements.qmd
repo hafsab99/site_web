@@ -1,0 +1,71 @@
+---
+title: "Liste des enseignements"
+editor: visual
+---
+
+Un programme détaillé des enseignements et des intervenants est disponible en cliquant [ici](http://mastersep.fr/wp-content/uploads/2015/11/Livret_SEP_2015_2016..pdf).
+
+### Programme des enseignements du premier semestre
+
+| intitulés U.E. et E.C.                                                         | E.C.T.S./ | Volume horaire |
+|:-------------------------------------------------------------------------------|:----------|:---------------|
+| coef.                                                                          |           |                |
+| U.E.                                                                           | E.C.      | C.M.           |
+| **U.E. 0911 Disciplinaire**                                                    | 6         |                |
+| SESG0903 -Evaluation et calcul économiques                                     |           | 1              |
+| SESG0907 -Evaluation économique avancée                                        |           | 2              |
+| SESG0902 -Atelier de prospective                                               |           | 1              |
+| MA0971 --Econométrie                                                           |           | 2              |
+| **U.E.0912 Disciplinaire de différenciation**                                  | 6         |                |
+| MA0989 -Fondements des probabilités et statistique et introduction à R         |           | 1              |
+| MA0973 -Géostatistique                                                         |           | 1              |
+| MA0974 -Système d'Information Géographique (SIG)                               |           | 1              |
+| SESG0904 -Analyse des données                                                  |           | 2              |
+| MA0976 -Option 1, un E.C. à choisir parmi (\*)                                 |           | 1              |
+| **U.E.0913 Disciplinaire de différenciation**                                  | 6         |                |
+| MA0975 -Option 2, un E.C. à choisir parmi (\*)                                 |           | 2              |
+| MA0977 -Initiation à la recherche : Séminaires « recherche » ou projet terrain |           | 2              |
+| MA0979 -Séries temporelles, Hadoop                                             |           | 2              |
+| **U.E. 0914 Disciplinaire**                                                    | 6         |                |
+| MA 0980 -Tests statistiques avancés avec applications sous R                   |           | 2              |
+| MA0981 -Data Mining                                                            |           | 1              |
+| MA0982 --Scoring et Business Intelligence                                      |           | 1              |
+| MA0983 -SAS                                                                    |           | 1              |
+| MA0984 -Statistique exploratoire, big data                                     |           | 1              |
+| **U.E. 0915 Compétences Transversales**                                        | 6         |                |
+| MA0985 -Implication dans la vie associative universitaire (IVAU)               |           | 1              |
+| AN0913 -Langue                                                                 |           | 1              |
+| MA0986 -ACCESS, SQL Server                                                     |           | 1              |
+| MA0987 -VB-VBA et Excel                                                        |           | 1              |
+| SESG0906 -SPSS                                                                 |           | 1              |
+| MA0988 -Techniques de Recherche d'Emploi et de Stage (TRES)                    |           | 1              |
+
+### Cours d'approfondissement (options du premier semestre)
+
+| Cours d'approfondissement : options 1 et 2                                               | Volume horaire |
+|:-----------------------------------------------------------------------------------------|:---------------|
+| C.M.                                                                                     | T.D.           |
+| MA0941 -Modélisation mathématique (Master MMSI)                                          | 16             |
+| MA0990 -Mesure et gestion des risques                                                    | 20             |
+| MA0944 -Introduction au traitement d'images (Master MMSI)                                | 10             |
+| EEDD0901 -Analyse multicritères (master EEDD)                                            | 15             |
+| EEDD0902 -Acteurs et politiques publics (Master EEDD)                                    | 20             |
+| EEDD0903 -Gestion du développement durable (Masters EEDD et Logistique)                  | 25             |
+| SESG0901 -Economie du Développement Durable (Master EEDD)                                | 20             |
+| RMS0902 -Modélisation stochastique en temps continu (RMS)                                | 20             |
+| RMS0901 -Techniques statistiques pour l'analyse des risques difficiles à modéliser (RMS) | 20             |
+
+### Enseignements du seconde semestre
+
+\
+
+| intitulés U.E. et E.C.                                                                 | E.C.T.S./ | Volume horaire |
+|:---------------------------------------------------------------------------------------|:----------|:---------------|
+| coef.                                                                                  |           |                |
+| U.E.                                                                                   | E.C.      | C.M.           |
+| U.E.1016.1 Disciplinaire de différenciation : Majeure professionnelle                  | 30        |                |
+| MA1071 -Méthodologie du mémoire de recherche, mémoire de recherche                     |           | 8              |
+| MA1073 -Méthodologie du rapport de stage, stage (de 3 à 6 mois), rapport et soutenance |           | 22             |
+| U.E.1016.2 Disciplinaire de différenciation : Majeure recherche                        |           |                |
+| MA1072 -Méthodologie du rapport de stage, stage (de 1 à 6 mois), rapport               |           | 8              |
+| MA1074 -Méthodologie du mémoire de recherche, mémoire de recherche, soutenance         |           | 22             |

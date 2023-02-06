@@ -1,0 +1,23 @@
+---
+title: "Microsoft lance officiellement SQL Server 2022"
+format: html
+editor: visual
+---
+
+Microsoft a rendu SQL Server 2022 en disponibilité générale. Plusieurs évolutions sont à noter, notamment une forte imbrication avec le cloud Azure.
+
+![SQL Server 2022 a été officiellement lancé par Microsoft et fait la part belle à l'intégration avec les services d'Azure. (Crédit Photo : Microsoft)](https://images.itnewsinfo.com/lmi/articles/grande/000000088988.png "SQL Server 2022 a été officiellement lancé par Microsoft et fait la part belle à l'intégration avec les services d'Azure. (Crédit Photo : Microsoft)"){alt="SQL Server 2022 a été officiellement lancé par Microsoft et fait la part belle à l'intégration avec les services d'Azure. (Crédit Photo : Microsoft)"}
+
+La déclinaison 2022 du SGBD de Microsoft, SQL Server, passe en mode GA (disponibilité générale). La firme de Redmond l'a annoncé à l'occasion du PASS (Professional Association for SQL Server) Community Summit qui s'est tenu récemment à Seattle. Il succède à SQL Server 2019, sorti il y a un peu plus de trois ans.
+
+Plusieurs évolutions sont à noter dans la base de données avec une prédominance autour du cloud Azure. Ainsi, dans le cadre d'un PRA, SQL server basculera vers Azure SQL Managed Instance. Par ailleurs, il existe une intégration spécifique avec Azure Synapse - un service datawarehouse et d'analyse de données qui comprend Apache Spark - et Azure Purview, pour la classification et la protection des données. Toujours sur ce dernier point, SQL Server 2022 supporte l'API AWS S3, également prise en charge par d'autres fournisseurs de stockage. Les utilisateurs peuvent ainsi élaborer des scénarios de sauvegarde et de restauration vers S3.
+
+Une autre fonctionnalité liée au cloud est un modèle optionnel de facturation basé sur Azure Arc (plateforme de cloud hybride), qui fait désormais partie du processus de configuration de SQL Server 2022. Azure Arc est capable de gérer SQL Server depuis Azure, ainsi que d'utiliser des services Azure tels que l'analyse des logs et Azure defender. Les utilisateurs peuvent payer à l'heure, en augmentant la consommation lors des pics de charge et en la diminuant pendant les périodes creuses.
+
+## Accélérer les requêtes et améliorer le langage T-SQL
+
+Les performances ont été améliorées comme par exemple T-SQL, le langage de requête de SQL Server. Il comprend des fonctions supplémentaires autour de JSON (JavaScript Object Notation), des manipulations de bits comme LEFT_SHIFT et GET_BIT ou des séries chronologiques. Par ailleurs, il intègre une nouvelle expression IS DISTINCT FROM qui simplifie le traitement des valeurs nulles dans les expressions booléennes.
+
+L'optimisation des requêtes est également au rendez-vous avec Query Store. La fonction, qui capture l'historique des requêtes et ajuste les performances, est désormais activée par défaut. Elle était auparavant désactivée en raison d'un léger impact sur les performances. A travers ces différentes évolutions et améliorations, [Microsoft](https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-microsoft-4.html) espère consolider sa base installée face à une concurrence de plus en plus forte dans le domaine des bases de données notamment par les acteurs cloud comme AWS ou Google Cloud.
+
+Article rédigé par **Jacques Cheminat,** rédacteur en chef, sur "LE MONDE INFORMATIQUE".

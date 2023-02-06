@@ -1,0 +1,37 @@
+---
+title: "Salaires 2023 : +19% d'augmentation pour les data scientists"
+format: html
+editor: visual
+---
+
+Comme chaque année, le cabinet de recrutement Robert Walters a publié son étude de rémunération pour 2023. Celle-ci prévoit une moyenne des augmentations salariales de 7% dans les métiers des data, des systèmes d'information et du marketing digital. En tête des plus fortes progressions, on trouve les data scientists de niveau expérimentés, suivis par les directeurs de projets IT.
+
+![L'augmentation des recrutements en analyse des données contribue à tirer les salaires des data scientists vers le haut. (Crédit photo: Geralt Altmann/Pixabay)](https://images.itnewsinfo.com/lmi/articles/grande/000000089509.jpg "L'augmentation des recrutements en analyse des données contribue à tirer les salaires des data scientists vers le haut. (Crédit photo: Geralt Altmann/Pixabay)"){alt="L'augmentation des recrutements en analyse des données contribue à tirer les salaires des data scientists vers le haut. (Crédit photo: Geralt Altmann/Pixabay)"}
+
+En 2023, la rémunération restera le premier critère de satisfaction pour les cadres en France, notamment dans ce contexte inflationniste qui poussera 71% d\'entre eux à demander une augmentation. Dans le secteur numérique, les salaires en 2022 étant élevées, cette tendance devrait s\'accentuer en 2023. C\'est ce qui ressort de la 24eme [étude de rémunérations 2023](https://www.robertwalters.fr/news/presse-etude-remuneration-2023.html#:~:text=D'apr%C3%A8s%20l'Etude%20de,risque%20de%20changer%20d'entreprise.) présentée par le cabinet Robert Walters ce mardi 13 décembre. Dans l\'IT, des hausses de salaires sont attendues « notamment sur des profils d\'analystes des données où les entreprises sont prêtes à s\'aligner sur les demandes des meilleurs candidats », prévoit ce rapport.
+
+Ainsi, il est prévu une moyenne des augmentations de7% en 2023 dans la catégorie des systèmes d\'information et des data. En tête du palmarès, on trouve le data scientist avec 19% de hausse attendue l\'an prochain sur le bulletin de salaire d\'un profil ayant entre 5 et 10 ans d\'expérience. Avec +14% de hausse sur leur fiche de paye, les directeurs de projet confirmés (avec 15 ans et plus d\'expérience) ainsi que les « lead » data scientists ayant jusqu\'à 10 ans d\'expertise feront partie des mieux lotis, selon les projections du cabinet. Les raisons de cette surenchère salariale ? Une très forte demande des entreprises dans ces spécialités. Ainsi, en 2022, les offres d\'emploi ont bondi de 77% dans le domaine des data par rapport à 2021 et de 62% pour les project managers.
+
+## Des offres d'emploi IT en constante progression 
+
+![](https://img1.lemondeinformatique.fr/fichiers/telechargement/salaires-it.2.jpg){alt=""}
+
+La pénurie de profils IT a pour effet de faire progresser la moyenne des augmentations de salaires d'ici l'an prochain. (Source RobertWalters/Crédit image Robert Walters)
+
+A leurs côtés, les professionnels du marketing digital et des ventes dopés notamment par l\'importance des stratégies commerciales numériques et le boom des achats en ligne devaient être valorisés de 7% en moyenne. Dans ces secteurs d\'activité, deux postes se détachent en termes de progression salariale. Il s\'agit du directeur e-commerce, soit +13% revalorisation pour un profil possédant 6 à 12 ans d\'expérience et du directeur du digital (+9%) ayant exercé pendant 10 à 15 ans.
+
+![](https://img1.lemondeinformatique.fr/fichiers/telechargement/salaires-it.3.jpg){alt=""}
+
+Dynamiques, les professions en marketing digital et e-commerce devraient être revalorisées en 2023.(Source RobertWalters/Crédit image Robert Walters)
+
+## Un marché porteur malgré le contexte économique
+
+Les entreprises cherchent à constituer des équipes métiers et techniques où les expertises (data science, marketing digital, UX/UI, e- et m-commerce) complètent les fonctions traditionnelles (ERP, infrastructure, sécurité), fait remarquer cette étude. De même, les profils hybrides combinant technicité et approche business, capables de monter en puissance et de devancer une feuille de route IT & digitale en perpétuelle évolution seront également les plus prisés. En outre, au vu de l\'explosion des cyberattaques les postes en cybersécurité deviennent une priorité pour les entreprises. Le lancement de projets de transformation vers le cloud, tout en intégrant la composante data, est aussi un enjeu fort à prendre en compte pour les entreprises.
+
+Le marché IT est totalement épargné par la situation économique pourtant préoccupante, souligne le cabinet de recrutement. La demande n\'a jamais été aussi forte. Les candidats sont en position de force sur le marché : ils sont désormais difficiles à capter et restent réticents à tout changement.  Dans ce contexte les recruteurs ont compris qu\'ils devraient faire des efforts pour attirer les meilleurs profils et semblent s\'y adapter. 
+
+### Méthodologie :
+
+[Etude de rémunération ](https://www.robertwalters.fr/news/presse-etude-remuneration-2023.html#:~:text=D'apr%C3%A8s%20l'Etude%20de,risque%20de%20changer%20d'entreprise.): données issues d\'entretiens réalisés auprès de 50 000 candidats et clients dans le monde, de janvier à novembre 2022. Enquête Robert Walters : enquête réalisée auprès de plus de 1 700 cadres et entreprises interrogés en ligne en septembre 2022 en France.
+
+Article rédigé par **Véronique Arène,** journaliste, sur "LE MONDE INFORMATIQUE".

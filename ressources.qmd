@@ -1,0 +1,12 @@
+---
+title: "Ressources"
+editor: visual
+---
+
+<https://biblioinversee.shinyapps.io/application-biblio-inversee/>
+
+-   Outil proposé par des étudiants du Master 2 SEP pour la constitution de bibliographie et l'analyse statistiques sur des documents
+
+    -   Effectuer une recherche sur Google Scholar et récupérer l'identifiant de citation dans l'url.
+
+    -   Rentrer dans la barre de recherche et télécharger pour récupérer les données.

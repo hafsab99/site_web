@@ -1,0 +1,30 @@
+---
+title: "Organisation des enseignements"
+editor: visual
+---
+
+La formation est pluridisciplinaire. Les enseignements sont dispensés à parts égales par des mathématiciens, des économistes et des professionnels du secteur.
+
+La spécialité de Master SEP se compose de deux pèriodes.
+
+Au cours de la première (de début septembre à fin mars), les étudiants suivent un corpus de cours obligatoires :
+
+-   **statistique/probabilités** : séries temporelles, économétrie, analyse des données, Data-Mining, géomarketing, scoring et business intelligence, statistique exploratoire et big data ;
+
+-   **informatique** : SAS, SPSS, SPLUS ®, R, VB-VBA, ACCESS-SQL Server, hadoop ;
+
+-   **transversal** : anglais, séminaire de formation à la recherche, implication dans la vie associative.
+
+-   **finance et gestion des risques** : modélisation, mathématiques financières, mesure et gestion des risques, modélisation stochastique en temps continu, techniques statistiques pour l'analyse des risques difficiles à modéliser, introduction au traitement de l'image ;
+
+-   **économie** : analyse multi-critères, acteurs et politiques publiques, gestion du développement durable.
+
+Tous les cours sont évalués par des tests et des projets.
+
+Outre ces cours, les étudiants ont également accès au DataCamp.
+
+DataCamp est un navigateur pour apprendre les sciences de données dans le confort avec les didacticiels vidéo et les défis de codage sur R, Python, statistiques et d'autres langages de programmation. Le master SEP offre un accès gratuit pendant six mois au DataCamp pour acquérir une expérience pratique des outils et des processus que les scientifiques des données utilisent quotidiennement. Le lien de DataCamp est disponible [ici](http://www.datacamp.com/).
+
+La seconde période (de début avril à fin septembre) est constituée par le [stage](http://mastersep.fr/?page_id=278).
+
+La liste des enseignements du master SEP ainsi qu'un descriptif de leur contenu est disponible [ici](http://mastersep.fr/?page_id=14). La liste des intervenants (enseignants-chercheurs en mathématiques ou économie, professionnels des secteurs d'activités ciblés) est disponible [ici](http://mastersep.fr/?page_id=309).

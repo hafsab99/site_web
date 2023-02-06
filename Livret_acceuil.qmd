@@ -1,0 +1,10 @@
+---
+title: "Livret d'acceuil"
+editor: visual
+---
+
+Le CROUS est la principale structure pour obtenir un logement en résidence universitaire. Mais la chatoyante ville de Reims à beaucoup de logements chez des particuliers comme chez des privés, qui ne demande qu'à accueillir des étudiants.
+
+Pour les étudiants étrangers, les démarches sont d'autant plus difficiles du point de vue administratif. Le livret d'accueil ci-dessous, spécifiquement dédié aux étudiants étrangers, résume l'ensemble des informations nécessaires à leur intégration.
+
+[Livret d'accueil 2022-2023](https://livret-accueil.quarto.pub/livretaccueil/)

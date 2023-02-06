@@ -1,0 +1,8 @@
+---
+title: "On parle de nous !"
+editor: visual
+---
+
+[Article du magazine Challenge](http://mastersep.fr/wp-content/uploads/2018/11/Article-Challenge-2017.pdf)
+
+[Article du journal Le Monde](https://www.lemonde.fr/campus/article/2017/02/08/la-fievre-des-diplomes-de-big-data_5076480_4401467.html)
